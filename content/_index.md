@@ -17,11 +17,11 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
-        url: uploads/resume.pdf
+        url: uploads/CV P. Flajszer_2021.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        filename: image_2.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
@@ -41,8 +41,8 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: languages
-    content:
-      title: Languages
-      username: admin
+  # - block: languages
+  #   content:
+  #     title: Languages
+  #     username: admin
 ---

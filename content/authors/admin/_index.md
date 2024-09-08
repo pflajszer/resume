@@ -21,8 +21,8 @@ role: Senior Developer and Data Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Search Laboratory
-    url: https://www.searchlaboratory.com/
+  - name: PF Software Solutions
+    url: https://www.flajszer.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -79,7 +79,7 @@ education:
       url: 'https://courses.edx.org/certificates/d9f49612c3244080b1ab0c7f27d9cb9e'
 work:
   - position: Senior Developer and Data Engineer
-    company_name: Search Laboratory
+    company_name: Search Laboratory (Contracting) via PF Software Solutions
     company_url: ''
     company_logo: ''
     date_start: 2024-03-01
@@ -88,7 +88,7 @@ work:
       - Spearheaded the development of the entire Data Science process, implementing agile methodologies, code review protocols, DevOps/MLOps practices, and optimizing GCP technology stack, along with creating templates and documentation.
       - Designed, built, and deployed data pipelines and machine learning models to solve complex business challenges for clients.
   - position: Developer
-    company_name: Search Laboratory
+    company_name: Search Laboratory (Contracting) via PF Software Solutions
     company_url: ''
     company_logo: ''
     date_start: 2020-10-01
@@ -195,4 +195,4 @@ awards:
     icon: microsoft
 ---
 
-I am currently a Senior Developer and Data Engineer at Search Laboratory, specializing in driving Data Science innovation, streamlining processes through agile and DevOps methodologies, and utilizing GCP technologies to architect and deploy scalable data solutions and machine learning models for complex business challenges.
+I am an experienced engineer specializing in driving innovation, streamlining processes through modern development practices and operational efficiencies, and utilizing advanced technologies to architect and deploy scalable data solutions. I leverage machine learning and statistical models to tackle complex business challenges.

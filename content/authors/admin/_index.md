@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'pawel@flajszer.com'
+    url: 'mailto:pawel@flajszer.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/PFlajszer
@@ -40,6 +40,12 @@ profiles:
   #   url: https://www.instagram.com/
 
 education:
+  - area: Higher National Certificate (HNC) - Level 4
+    institution: BCS, The Chartered Institute for IT
+    date_start: 2019-01-01
+    date_end: 2020-07-01
+    summary: |
+      The Software Developer Level 4 Apprenticeship is tailored for Web Developers, Application Developers, Mobile App Developers, Games Developers, and Software Developers. The program includes modules focused on building and testing high-quality code across front-end, back-end, and database layers. During the apprenticeship, I collaborated with a larger team on various projects, contributing to specific components of the overall project. Additionally, I obtained a Microsoft Technology Associate certification and several BCS certifications, including Systems Development and Software Languages.
   - area: 'Machine Learning Specialization'
     institution: Stanford University Online
     date_start: 2023-01-16
@@ -58,12 +64,6 @@ education:
     button:
       text: 'View Credential'
       url: 'https://courses.edx.org/certificates/d9f49612c3244080b1ab0c7f27d9cb9e'
-  - area: Higher National Certificate (HNC) - Level 4
-    institution: BCS, The Chartered Institute for IT
-    date_start: 2019-01-01
-    date_end: 2020-07-01
-    summary: |
-      The Software Developer Level 4 Apprenticeship is tailored for Web Developers, Application Developers, Mobile App Developers, Games Developers, and Software Developers. The program includes modules focused on building and testing high-quality code across front-end, back-end, and database layers. During the apprenticeship, I collaborated with a larger team on various projects, contributing to specific components of the overall project. Additionally, I obtained a Microsoft Technology Associate certification and several BCS certifications, including Systems Development and Software Languages.
   - area: 'CS50: Introduction to Computer Science'
     institution: Harvard University Online
     date_start: 2018-01-01

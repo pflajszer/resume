@@ -12,6 +12,7 @@ design:
 # Page sections
 sections:
   - block: biography
+    id: bio
     content:
       username: admin
       # Show a call-to-action button under your biography? (optional)
@@ -26,6 +27,7 @@ sections:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
+    id: experience
     content:
       username: admin
     design:
@@ -37,7 +39,20 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
+  - block: collection
+    id: projects
+    content:
+      title: Featured Projects
+      text: 
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
   - block: awards
+    id: awards
     content:
       title: Awards
       username: admin

@@ -5,11 +5,14 @@
 
 main:
   - name: Home
-    url: /
+    url: /#bio
     weight: 10
-  - name: Blog
-    url: blog/
+  - name: Experience
+    url: /#experience
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Projects
+    url: /#projects
     weight: 30
+  - name: Awards
+    url: /#awards
+    weight: 40
